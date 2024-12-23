@@ -1,5 +1,5 @@
 # Hi there, I'm Nilakshan! 👋
-
+![Arduino Animation](https://example.com/arduino-animation.gif) <!-- Replace with a link to your chosen GIF -->
 I'm an enthusiastic undergraduate passionate about **programming**, **embedded systems**, and **AI/ML/DL**. I enjoy leveraging technology to solve real-world problems and create impactful projects.
 
 ---
