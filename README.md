@@ -1,6 +1,18 @@
 # Hi there, I'm Nilakshan! 👋
-![Arduino Animation](https://example.com/arduino-animation.gif) <!-- Replace with a link to your chosen GIF -->
-I'm an enthusiastic undergraduate passionate about **programming**, **embedded systems**, and **AI/ML/DL**. I enjoy leveraging technology to solve real-world problems and create impactful projects.
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Typing Animation" width="300" />
+    </td>
+    <td>
+      <p>
+        I'm an enthusiastic undergraduate passionate about <strong>programming</strong>, <strong>embedded systems</strong>, and <strong>AI/ML/DL</strong>.
+        I enjoy leveraging technology to solve real-world problems and create impactful projects.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
